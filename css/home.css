@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+}
+.intro{
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+
+}
+.intro img{
+    width: 800px;
+    position: relative;
+}
+.intro h1{
+    font-size: 5rem;
+}
+.intro h3{
+    font-size: 2rem;
+}
+.beauty{
+    width: 800px;
+    position: relative;
+    bottom: 100px;
+}
+.payground-app{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 100px; */
+}
+.payground-app> img{
+    width: 660px;
+}
+.app-description img{
+    width: 200px;
+}
+.app-description h1{
+    font-size: 4rem;
+}
+.app-description h3{
+    font-size: 1.5rem;
+}
+.discription2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.discription2 h1{
+    font-size: 4rem;
+}
+.discription2 h3{
+    font-size: 1.5rem;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.card1{
+    padding: 30px;
+    background-color:  rgb(249, 235, 233);
+}
+.card2{
+    padding: 30px;
+    background-color:   rgb(249, 235, 233);
+}
+.card3{
+    padding: 30px;
+    background-color:  rgb(249, 235, 233);
+}
+.cards h2{
+    font-weight: 900;
+}
+.cards h1{
+    font-size: 2rem;
+}
+.discription3{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.discription3 h1{
+    font-size: 3rem;
+}
+.goals{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.goals img{
+    width: 180px;
+}
+.time{
+    max-width: 570px;
+}
+.rest{
+    max-width: 550px;
+}
+.stress{
+    max-width: 520px;
+}
+.live-payground{
+    margin: 0px;
+    margin-top: 200px;
+    background-color: rgba(34, 34, 119, 0.779);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding: 30px; */
+}
+.live-payground sup{
+    font-size: 1rem;
+}
+.live-payground button{
+    margin: 30px;
+    border-radius: 15px;
+    border-color: white;
+}
+.live-payground button:hover{
+    cursor: pointer;
+    background-color: antiquewhite;
+}
+.live-payground> h1, .live-payground> h2{
+    color: white;
+}
+.fourdoctors{
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.fourdoctors img{
+    width: 750px;
+}
+.discription3{
+    max-width: 400px;
+}
+.question{
+    color: #303178;
+    font-size: 2rem;
+}
+.discription3 button{
+    border-radius: 15px;
+    background-color: #3c3d6d;
+    color: white;
+    padding: 0px 20px 0px 20px;
+}
+.discription3 button:hover{
+    cursor: pointer;
+    background-color: rgb(22, 35, 42);
+}
