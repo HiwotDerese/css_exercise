@@ -1,0 +1,58 @@
+body{
+    margin: 80px;
+    background-color: rgb(246, 250, 250);
+}
+.footerelts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.appstore img{
+    width: 200px;
+    height: 70px;
+}
+.playstore img{
+    width: 200px;
+    height: 70px;
+}
+.elt1{
+    display: flex;
+    flex-direction: column;
+}
+.elt1 img{
+    padding-top: 30px;
+    width: 190px;
+}
+.elt1 a, .elt1 img{
+    padding-bottom: 0px;
+    font-size: 1.5rem;
+}
+.elt2, .elt3, .elt4{
+    display: flex;
+    flex-direction: column;
+}
+.elt2>a, .elt3> a, .elt4> a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    padding: 10px;
+}
+.elt2> a:hover, .elt3> a:hover{
+    text-decoration: dashed;
+}
+.email{
+    display: flex;
+    flex-direction: column;
+}
+.email a{
+    padding: 7px;
+    font-size: 1.5rem;
+}
+.social-media img{
+    width: 25px;
+    height: 25px;
+    padding: 8px;
+}
+.social-media img:hover{
+    color: darkgray;
+}
