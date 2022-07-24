@@ -116,7 +116,7 @@ img{
     height: 20px;
 }
 a{
-    font-size: 1.3rem;
+    font-size: 1vw;
     border-radius: 10px;
 }
 .nav2 a:hover{
