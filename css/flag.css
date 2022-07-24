@@ -112,3 +112,41 @@
     position: relative;
     bottom: 1100px;
 }
+ .costa-blue1{
+    padding: 15px;
+    background-color: blue;
+    position: relative;
+    bottom: 950px;
+}
+.costa-red{
+    padding: 30px;
+    background-color: red;
+    position: relative;
+    bottom: 920px;
+}
+.costa-blue2{
+    padding: 15px;
+    background-color: blue;
+    position: relative;
+    bottom: 890px;
+}
+.france-blue{
+    padding: 30px;
+    background-color: blue;
+
+}
+.france{
+    max-width: 170px;
+    border-style: solid;
+    border-width: 1px;
+    display: flex;
+    position: relative;
+    bottom: 820px;
+    min-height: 200px;
+}
+.france-red{
+    padding: 30px;
+    background-color: red;
+    position: relative;
+    left: 50px;
+} 
