@@ -1,0 +1,43 @@
+.flags{
+    max-width: 400px;
+    padding: 30px;
+}
+
+.Ethiopia{
+    /* background-color: green; */
+    /* padding: 30px; */
+    width: 400px;
+}
+.green{
+    background-color: green;
+    padding: 30px;
+}
+.yellow{
+    background-color: yellow;
+    padding: 30px;
+}
+.red{
+    background-color: red;
+    padding: 30px;
+}
+.triangle1{
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-top: 30px solid blue;
+    position: relative;
+    bottom: 100px;
+    left: 170px;
+}
+.triangle2{
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 30px solid blue;
+    position: relative;
+    bottom: 140px;
+    left: 170px;
+}
+
