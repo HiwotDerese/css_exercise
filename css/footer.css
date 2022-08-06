@@ -27,7 +27,7 @@ body{
 }
 .elt1 a, .elt1 img{
     padding-bottom: 0px;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
 .elt2, .elt3, .elt4{
     display: flex;
